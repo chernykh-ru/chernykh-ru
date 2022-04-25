@@ -1,1 +1,1 @@
-# [chernykh.ru](https://chernykh.ru)
+# [chernykh.ru](https://chernykh.netlify.app/)
