@@ -1,3 +1,3 @@
-Software Engineer, React and TypeScript enthusiast, sailor ⛵, vj 🎚📺🎛, cat lover 🐈‍⬛.
+Software Engineer, React and TypeScript enthusiast, sailor ⛵, vj 🎚📺🎛, cat lover 🐈‍⬛
 
-## [chernykh.ru](https://chernykh.netlify.app/)
+## [chernykh.ru](https://www.chernykh.ru)
