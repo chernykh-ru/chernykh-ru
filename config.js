@@ -6,7 +6,7 @@ module.exports = {
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/images/website-icon.png',
+  manifestIcon: 'src/assets/images/site-icon.png',
   authorName: 'Semen Chernykh',
   heading: 'frontend vj',
   // social
